@@ -1,5 +1,8 @@
-# 数据分析
--[报表开发](https://github.com/lifeismovie/data/blob/master/EXCEL.png) -[数据可视](https://github.com/lifeismovie/data/blob/master/PowerBI.png) -[专题分析](https://nbviewer.jupyter.org/github/lifeismovie/data/blob/master/data-analysis.ipynb) -数据挖掘 -汇总数分报告
+# 数据分析 
+- [报表开发](https://github.com/lifeismovie/data/blob/master/EXCEL.png)  
+- [数据可视](https://github.com/lifeismovie/data/blob/master/PowerBI.png)  
+- [专题分析](https://nbviewer.jupyter.org/github/lifeismovie/data/blob/master/data-analysis.ipynb)
+- 数据挖掘 
 ## 业务背景
 - 互联网金融
 - 有抵押贷款
