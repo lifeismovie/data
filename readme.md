@@ -1,2 +1,2 @@
-项目映射地址：[https://github.com/lifeismovie/data/blob/master/data-analysis.ipynb](https://github.com/lifeismovie/data/blob/master/data-analysis.ipynb)
+项目映射地址：[https://nbviewer.jupyter.org/github/lifeismovie/data/blob/master/data-analysis.ipynb](https://nbviewer.jupyter.org/github/lifeismovie/data/blob/master/data-analysis.ipynb)
 ![思维导图](https://github.com/lifeismovie/data/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
