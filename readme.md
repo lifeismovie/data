@@ -13,7 +13,7 @@
 - 数据表：订单表、客服表、跟进表
 - 表字段：loading......
 
-## 分析环境
+## 软件环境
 - **Anaconda3**  
 Python 3.7、jupyter notebook、Spyder
 - **MySQL**
@@ -25,3 +25,5 @@ Python 3.7、jupyter notebook、Spyder
 ![](https://github.com/lifeismovie/data/blob/master/PowerBI/PowerBI.png?raw=true)
 - Office Excel 2019：**数据追踪日报自动化**
 ![](https://github.com/lifeismovie/data/blob/master/Excel/EXCEL.png?raw=true)
+- Python 3.7：**专题数据分析**
+![]()
