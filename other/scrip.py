@@ -100,23 +100,24 @@ def output_1():#导出一组成单
         df_1_2.to_excel(writer, sheet_name='sheet2',index=False)
 
 ##分星期数调用函数
-if date_W == 4:
-    print(datetime.datetime.now())
+if __name__ == '__main__':
+    if date_W == 4:
+        print(datetime.datetime.now())
     
-    copy()
+        copy()
     
-    df_xiaoban = pd.read_excel(xiaoban,header=1)
+        df_xiaoban = pd.read_excel(xiaoban,header=1)
     
-    output_1()
+        output_1()
     
-    print(datetime.datetime.now())
-else:
-    print(datetime.datetime.now())
-    copy()
+        print(datetime.datetime.now())
+    else:
+        print(datetime.datetime.now())
+        copy()
     
-    df_xiaoban = pd.read_excel(xiaoban,header=1)
+        df_xiaoban = pd.read_excel(xiaoban,header=1)
     
-    output_1()
+        output_1()
     
-    output_23()
-    print(datetime.datetime.now())
+        output_23()
+        print(datetime.datetime.now())
